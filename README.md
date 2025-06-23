@@ -6,6 +6,7 @@ This Excel project visualizes and analyzes global product sales performance usin
 🔧 Key Components
 --------------------
 1. Data Sheet
+--------------
 Includes raw transactional sales data with:
 
 🌍 Country/Region
@@ -19,6 +20,7 @@ Includes raw transactional sales data with:
 🗓️ Date of Sale (Monthly Granularity)
 
 2. Dashboard
+---------------
 Interactive visual summary showing:
 
 💰 Total Revenue and Profit Trends
@@ -32,6 +34,7 @@ Interactive visual summary showing:
 🗓️ Seasonal/Monthly Comparison
 
 3. Summary Sheets
+--------------------
 Detailed breakdowns of:
 
 💹 Profit by Month – Track profitability over time
