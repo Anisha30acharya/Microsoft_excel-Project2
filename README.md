@@ -5,8 +5,9 @@ This Excel project visualizes and analyzes global product sales performance usin
 
 🔧 Key Components
 --------------------
+
 1. Data Sheet
---------------
+________________________
 Includes raw transactional sales data with:
 
 🌍 Country/Region
